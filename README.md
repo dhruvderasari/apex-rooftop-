@@ -1,4 +1,4 @@
-# APEX — Rooftop Restaurant Website
+# APEX — Rooftop Restaurant Website (Only Desktop Mode)
 
 A 4-page website for APEX, a fictional rooftop restaurant 
 in Ahmedabad. Built with pure HTML and CSS — no JavaScript, 
